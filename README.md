@@ -7,6 +7,12 @@
   - <insert untypable discord tag> (Highest chance of getting a response)
   - anticream39@yahoo.com
 
+Other interesting facts about me inlude:
+  - I prefer macOS for my main OS
+  - KDE > Anything GNOME Based by a longshot
+  - Huge Sonic fan
+  - Heavy experience with SRB2 and the Doom engine
+  
 <!---
 ashifolfi/ashifolfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
