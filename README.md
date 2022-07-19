@@ -12,6 +12,8 @@ Other interesting facts about me inlude:
   - KDE > Anything GNOME Based by a longshot
   - Huge Sonic fan
   - Heavy experience with SRB2 and the Doom engine
+  - Source Engine modder
+  - beginning game developer
   
 <!---
 ashifolfi/ashifolfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
