@@ -2,7 +2,7 @@
 - The languages I know how to code in are **Objective C, JS, QML, C++, C, CSS, HTML, ZScript, and Lua**.
 - I'm not looking to collaborate on just anything. If I want to help with your project I'll contact you.
 - 📫 Aside from that you can find me at these places:
-  - @ashifolfi on Twitter (I don't frequently check my DMs)
+  - @ashifolfi on Twitter (0.0000000000001% chance of a response here)
   - @RyukoRazz@meow.social on Mastodon
   - ashi#5369 (Highest chance of getting a response)
   - anticream39@yahoo.com
