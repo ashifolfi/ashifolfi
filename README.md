@@ -1,5 +1,5 @@
 - 👋 Hi! Ash here! I'm interested in programming applications and games.
-- The languages I know how to code in are **Objective C, JS, QML, C++, C, CSS, HTML, ZScript, and Lua**.
+- The languages I know how to code in are **Objective C, JS, QML, C++, C, C#, Rust, CSS, HTML, and Lua**.
 - I'm not looking to collaborate on just anything. If I want to help with your project I'll contact you.
 - 📫 Aside from that you can find me at these places:
   - @ashifolfi on Twitter (0.0000000000001% chance of a response here)
