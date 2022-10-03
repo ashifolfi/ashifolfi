@@ -1,5 +1,5 @@
 - 👋 Hi! Ash here! I'm interested in programming applications and games.
-- The languages I know how to code in are **Objective C, JS, QML, C++, C, C#, Rust, CSS, HTML, and Lua**.
+- The languages I am fluent to an acceptable degree in are **C#, C/C++, Lua**
 - I'm not looking to collaborate on just anything. If I want to help with your project I'll contact you.
 - 📫 Aside from that you can find me at these places:
   - @ashifolfi on Twitter (0.0000000000001% chance of a response here)
@@ -8,8 +8,7 @@
   - anticream39@yahoo.com
 
 Other interesting facts about me inlude:
-  - I prefer macOS for my main OS
-  - KDE > Anything GNOME Based by a longshot
+  - Artist
   - Huge Sonic fan
   - Heavy experience with SRB2 and the Doom engine
   - Source Engine modder
