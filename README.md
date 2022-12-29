@@ -1,4 +1,4 @@
-- 👋 Hi! Ash here! I'm interested in programming applications and games.
+- 🐈‍⬛ Hi! Ashi here! I'm interested in programming applications and games.
 - The languages I am fluent to an acceptable degree in are **C#, C/C++, Lua**
 - I'm not looking to collaborate on just anything. If I want to help with your project I'll contact you.
 - 📫 Aside from that you can find me at these places:
@@ -8,12 +8,12 @@
   - anticream39@yahoo.com
 
 Other interesting facts about me inlude:
-  - Artist
+  - Furry Artist
   - Huge Sonic fan
-  - Heavy experience with SRB2 and the Doom engine
-  - Source Engine modder
+  - Heavy experience with SRB2, Doom, and the Source Engine
   - beginning game developer
-  - I made various tools whenever I need them. I tend to put them here as well
+  - professional silly cat
+  - I make various tools whenever I need them. I tend to put them here as well
   
 <!---
 ashifolfi/ashifolfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
