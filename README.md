@@ -13,10 +13,14 @@ Other interesting facts about me inlude:
   - beginning game developer
   - professional ![Swaggy Cat](https://img.shields.io/badge/swaggy-cat-lightpink?style=for-the-badge)
   - I make various tools whenever I need them. I tend to put them here as well
+  - prefer ![BSD2](https://img.shields.io/github/license/ashifolfi/Chisel) and ![MIT](https://img.shields.io/github/license/ashifolfi/LuaSSG)
   
 <br><br>
 oh btw:<br>
 ![Trans Rights](https://img.shields.io/badge/trans-rights-lightpink?style=for-the-badge&labelColor=lightblue)
+
+<br><br>
+![Badges are very cool](https://img.shields.io/badge/badges%20are-very%20cool-green)
 <!---
 ashifolfi/ashifolfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
