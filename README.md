@@ -14,6 +14,9 @@ Other interesting facts about me inlude:
   - professional ![Swaggy Cat](https://img.shields.io/badge/swaggy-cat-lightpink?style=for-the-badge)
   - I make various tools whenever I need them. I tend to put them here as well
   
+<br><br>
+oh btw:<br>
+![Trans Rights](https://img.shields.io/badge/trans-rights-lightpink?style=for-the-badge&labelColor=lightblue)
 <!---
 ashifolfi/ashifolfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
