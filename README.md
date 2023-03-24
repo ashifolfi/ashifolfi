@@ -3,8 +3,8 @@
 - I'm not looking to collaborate on just anything. If I want to help with your project I'll contact you.
 - 📫 Aside from that you can find me at these places:
 
-\_\_\_\_\_\_[ashifolfi](https://twitch.tv/ashifolfi)\_\_\_\_\_\_\_\_\_\_\_\_\_[@RyukoRazz](https://meow.social/@RyukoRazz)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_[dusk](https://youtube.com/@dusk5430)<br>
-![Twitch Status](https://img.shields.io/twitch/status/ashifolfi?color=lightblue&style=for-the-badge) ![Mastodon Follow](https://img.shields.io/mastodon/follow/106880192441248560?color=lightpink&domain=https%3A%2F%2Fmeow.social&style=for-the-badge) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCR197JpJejJw0PxELfdVnXQ?color=%239696FF&label=Youtube%20subs&style=for-the-badge)
+\_\_\_\_\_\_[ashisharky](https://twitch.tv/ashisharky)\_\_\_\_\_\_\_\_\_\_\_\_\_[@RyukoRazz](https://meow.social/@RyukoRazz)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_[dusk](https://youtube.com/@dusk5430)<br>
+![Twitch Status](https://img.shields.io/twitch/status/ashisharky?color=lightblue&style=for-the-badge) ![Mastodon Follow](https://img.shields.io/mastodon/follow/106880192441248560?color=lightpink&domain=https%3A%2F%2Fmeow.social&style=for-the-badge) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCR197JpJejJw0PxELfdVnXQ?color=%239696FF&label=Youtube%20subs&style=for-the-badge)
 
 Other interesting facts about me inlude:
   - Furry Artist
