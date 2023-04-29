@@ -9,7 +9,7 @@
 Other interesting facts about me inlude:
   - Furry Artist
   - Huge Sonic fan
-  - Heavy experience with SRB2, Doom, and the Source Engine
+  - Heavy experience with SRB2, GZDoom, and the Source Engine
   - beginning game developer
   - professional ![Swaggy Cat](https://img.shields.io/badge/swaggy-cat-lightpink?style=for-the-badge)
   - I make various tools whenever I need them. I tend to put them here as well
