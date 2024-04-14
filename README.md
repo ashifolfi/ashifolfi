@@ -1,6 +1,5 @@
 - Hi! Ashi here! I'm interested in programming applications and games.
-- The languages I am fluent to an acceptable degree in are **C#, C/C++, Lua**
-- I'm not looking to collaborate on just anything. If I want to help with your project I'll contact you.
+- The languages I am fluent to an acceptable degree in are **C#, C/C++, Lua, GML**
 - 📫 Aside from that you can find me at these places:
 
 [ashisharky](https://twitch.tv/ashisharky)  [@RyukoRazz](https://meow.social/@RyukoRazz)<br>
@@ -10,7 +9,7 @@ Other interesting facts about me inlude:
   - Furry Artist
   - Huge Sonic fan
   - Heavy experience with SRB2, GZDoom, and the Source Engine
-  - beginning game developer
+  - Indie Game Dev (haven't yet released a game but I am working on them trust me)
   - I make various tools whenever I need them. I tend to put them here as well
   - prefer ![BSD2](https://img.shields.io/github/license/ashifolfi/Chisel) and ![MIT](https://img.shields.io/github/license/ashifolfi/LuaSSG)
   
