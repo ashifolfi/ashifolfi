@@ -1,6 +1,5 @@
 ![ashifolfi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashifolfi&show_icons=true&theme=tokyonight)
 
-- The languages I am fluent to an acceptable degree in are **C#, C/C++, Lua, GML**
 - Artist
 - Indie Game Dev
 - C++/C# Programmer
