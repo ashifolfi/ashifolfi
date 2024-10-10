@@ -1,24 +1,13 @@
-- Hi! Ashi here! I'm interested in programming applications and games.
+![ashifolfi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashifolfi&show_icons=true&theme=tokyonight)
+
 - The languages I am fluent to an acceptable degree in are **C#, C/C++, Lua, GML**
-- 📫 Aside from that you can find me at these places:
+- Artist
+- Indie Game Dev
+- C++/C# Programmer
 
-[ashisharky](https://twitch.tv/ashisharky)  [@RyukoRazz](https://meow.social/@RyukoRazz)<br>
-![Twitch Status](https://img.shields.io/twitch/status/ashisharky?color=lightblue&style=for-the-badge) ![Mastodon Follow](https://img.shields.io/mastodon/follow/106880192441248560?color=lightpink&domain=https%3A%2F%2Fmeow.social&style=for-the-badge)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashifolfi&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-Other interesting facts about me inlude:
-  - Furry Artist
-  - Huge Sonic fan
-  - Heavy experience with SRB2, GZDoom, and the Source Engine
-  - Indie Game Dev (haven't yet released a game but I am working on them trust me)
-  - I make various tools whenever I need them. I tend to put them here as well
-  - prefer ![BSD2](https://img.shields.io/github/license/ashifolfi/Chisel) and ![MIT](https://img.shields.io/github/license/ashifolfi/LuaSSG)
-  
-<br><br>
-oh btw:<br>
-![Trans Rights](https://img.shields.io/badge/trans-rights-lightpink?style=for-the-badge&labelColor=lightblue)
-
-<br><br>
-![Badges are very cool](https://img.shields.io/badge/badges%20are-very%20cool-green)
+![Twitch Status](https://img.shields.io/twitch/status/ashi_eden?color=lightblue&style=for-the-badge) ![Mastodon Follow](https://img.shields.io/mastodon/follow/106880192441248560?color=lightpink&domain=https%3A%2F%2Fmeow.social&style=for-the-badge) ![Trans Rights](https://img.shields.io/badge/trans-rights-lightpink?style=for-the-badge&labelColor=lightblue)
 <!---
 ashifolfi/ashifolfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
