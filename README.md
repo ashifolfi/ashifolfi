@@ -2,7 +2,7 @@
 
 - Artist
 - Indie Game Dev
-- C++/C# Programmer
+- Rust Programmer (also knows C#)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashifolfi&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
